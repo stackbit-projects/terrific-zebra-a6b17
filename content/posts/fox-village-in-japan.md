@@ -3,12 +3,7 @@ title: Perchè vessicchio ci libererà dal virus
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
-excerpt: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries. The Shrines of Ise have been celebrated as the prototype of
-  Japanese architecture. Largely of wood, traditional housing and many temple
-  buildings see the use of tatami mats and sliding doors that break down the
-  distinction between rooms and indoor and outdoor space.
+excerpt: "eeeeeea aaaaa hhh eeea\_ aaeaeae aeeaeae ae ae\_ aeaeae a\_ ae ae a e aee a"
 date: '2020-01-11'
 thumb_img_path: images/foto_709001_908x560.jpg
 thumb_img_alt: A red fox sitting on a meadow
