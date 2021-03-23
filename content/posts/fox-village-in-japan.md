@@ -1,5 +1,5 @@
 ---
-title: perchè vessicchi ci libnererò dal virus
+title: perchè vessicchio ci liberer dal virus
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
