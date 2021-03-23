@@ -1,7 +1,7 @@
 title: Stackbit Fjord Theme
 baseURL: /
 params:
-  palette: 
+  palette: green
   header:
     title: Roberto Petrucco
     tagline: Piccolo sitarello messo online senza sapere cosa sto realmente facendo
