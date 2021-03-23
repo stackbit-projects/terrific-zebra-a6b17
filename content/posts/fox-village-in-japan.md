@@ -4,7 +4,7 @@ subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
 excerpt: "eeeeeea aaaaa hhh eeea\_ aaeaeae aeeaeae ae ae\_ aeaeae a\_ ae ae a e aee a"
-date: '2020-01-11'
+date: '2021-03-23'
 thumb_img_path: images/foto_709001_908x560.jpg
 thumb_img_alt: A red fox sitting on a meadow
 content_img_path: images/10.jpg
